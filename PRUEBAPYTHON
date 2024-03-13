@@ -1,1 +1,4 @@
-Ejercicios ADSO 
+#Primer ejercicio
+#Autor Keiner Daniel Bautista Angarita
+#12/03/2024
+mombre = input("Por favor ingresé su nombre")
